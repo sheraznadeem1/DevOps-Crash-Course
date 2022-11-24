@@ -661,6 +661,35 @@ https://medium.com/@awabamjid/kubernetes-configuration-file-declarative-manageme
 4) https://docs.sigstore.dev/cosign/overview/
 5) https://kyverno.io/docs/
 
+# Sheraz Nadeem
+Twitter: https://twitter.com/SherazNM
+
+# What I Learned:
+-> Introduction to Docker & its usage
+-> Kubernetes Clusters
+-> Various versions of Kubernetes (i.e K3s,K8s e.t.c)
+-> Gitops
+-> Docker Alternatives (i.e Kyverno, Podman, Yacht e.t.c)
+-> Signing Container images using Cosign
+-> Open source contribution
+
+# My Blogs
+I have contributed to the devops community by writing two blogs as of writing of this commit. These can be found at medium.com & on the official Cloud Native Islamabad Hashnode page.
+
+## 1. Kubernetes Control Plane-Unraveled
+https://medium.com/@sheraznadeem1/kubernetes-control-plane-unraveled-cbd5c4a1eb6d
+
+## 2. Kubescape & Kubernetes Hardening- Demystified
+https://medium.com/@sheraznadeem1/kubescape-kubernetes-hardening-demystified-87fba47f3b6a
+
+# Learning Resources
+I've learned that the best place for learning about devops is the official documentation of the software you're working on. During my research i also consulted various blogs on medium.com as well which really helped me a lot. The links to the resources which benefited me the most are listed below:
+
+1. https://docs.docker.com/
+2. https://kubernetes.io/docs/home/
+3. https://kyverno.io/docs/
+4. https://docs.sigstore.dev/cosign/overview
+5. https://www.youtube.com/@CloudNativeIslamabad
 
 
 
